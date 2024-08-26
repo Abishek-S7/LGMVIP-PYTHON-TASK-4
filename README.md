@@ -1,8 +1,7 @@
 # LGMVIP-PYTHON-TASK-4
 
-**PROJECT TO CREATE A PERSONAL VOICE ASSISTANT USING PYTHON**
+# PROJECT TO CREATE A PERSONAL VOICE ASSISTANT USING PYTHON
 
-# AI_Personal_Voice_Assistant_Using_Python
 
 A project to build an AI voice assistant using Python . The Voice assistant interacts with the humans to perform basic tasks.
 
@@ -81,7 +80,8 @@ G-One AI Voice assistant:"Loading your personal Assistant G-One....
    		
 	  	Human: Hey G-One, Who created you? / Hey G-One , What can you do
 		
-		
+
+
 10.Turn off your pc when required
    		
 
